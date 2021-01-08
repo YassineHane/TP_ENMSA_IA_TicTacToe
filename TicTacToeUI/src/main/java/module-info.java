@@ -1,4 +1,6 @@
 module hanelemas.tp {
     requires javafx.controls;
-    exports hanelemas.tp;
+    requires java.logging;
+    exports hanelemas.tp.ui;
+    
 }

@@ -1,4 +1,4 @@
-package hanelemas.tp;
+package hanelemas.tp.ui;
 
 public class SystemInfo {
 
